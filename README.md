@@ -6,10 +6,19 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2508.13153-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.13153)
 
 <div style="background-color:white; padding:10px; display:inline-block;">
- <img src="https://github.com/whhu7/IGFuse-code/blob/main/figure.png">
+ <img src="https://github.com/whhu7/IGFuse-code/blob/main/assets/figure.png">
 </div>
 <p align="justify">Given multiple observed scene scans, IGFuse performs multi-state optimization to jointly reconstruct interactive Gaussian field with realistic rendering.</p>
 
+## 🎥 Demo Results
+
+<p align="center">
+  <img src="assets/demo1.gif" width="30%" />
+  <img src="assets/demo2.gif" width="30%" />
+  <img src="assets/demo3.gif" width="30%" />
+</p>
+
+---
 ## 🚀 Code Release
 The code for this project will be **open-sourced soon**!
 
