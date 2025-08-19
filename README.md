@@ -8,7 +8,7 @@
 <div style="background-color:white; padding:10px; display:inline-block;">
  <img src="https://github.com/whhu7/IGFuse-code/blob/main/figure.png">
 </div>
-<p align="justify">Given multiple observed scene scans, IGFuse perform multi-state optimization to jointly reconstruct interactive Gaussian field with realistic rendering.</p>
+<p align="justify">Given multiple observed scene scans, IGFuse performs multi-state optimization to jointly reconstruct interactive Gaussian field with realistic rendering.</p>
 
 ## 🚀 Code Release
 The code for this project will be **open-sourced soon**!
