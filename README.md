@@ -10,8 +10,8 @@
 </div>
 <p align="justify">Given multiple observed scene scans, IGFuse perform multi-state optimization to jointly reconstruct interactive Gaussian field with realistic rendering.</p>
 
-## 🚀 The code for this project will be **open-sourced soon**!
-
+## 🚀 Code Release
+The code for this project will be **open-sourced soon**!
 
 ## ⚖️ License
 This project is licensed under the [Apache License 2.0](LICENSE). See the `LICENSE` file for details.
