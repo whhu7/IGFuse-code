@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+.eggs/
+
+# Build / CUDA extensions
+build/
+*.o
+.ninja_log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Training & experiment outputs
+output/
+screenshots/
+tensorboard_3d/
+runs/
+*.log
+wandb/
+datasets/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+*.ply
